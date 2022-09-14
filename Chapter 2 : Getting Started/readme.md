@@ -1,1 +1,1 @@
-
+This folder contains the solutions to the exercises in chapter 2. As the exercises have been solved, we also implement the major algorithms discussed in this chapter: insertion sort, selection sort, bubble sort, merge sort, linear search and binary search.
